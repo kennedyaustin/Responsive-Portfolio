@@ -244,21 +244,41 @@ input[type=submit] {
   #logo {
     width: 100%;
   }
+
   #masthead {
     position: static;
   }
+
   #main-container {
     padding-top: 0;
     width: 90%;
     margin: auto;
    
   }
+
+  .imgplz {
+    margin: auto;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+
   nav {
     position: relative;
     margin: auto;
     padding: 10px;
     width: 100%;
     text-align: center;
+  }
+
+  h3 {
+    position: relative;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    padding: 15px 0 15px 0;
+    bottom: 75px;
+    border-bottom: #4aaaa5;
   }
 }
 
