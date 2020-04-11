@@ -241,6 +241,12 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 640px) {
+
+  #Abimg {
+    width: 100%;
+    height: 250px;
+  }
+
   #logo {
     width: 100%;
   }
@@ -283,7 +289,7 @@ input[type=submit] {
 
 @media screen and (max-width: 768px) and (min-width: 641px) {
   #logo {
-    margin-left: 37px;
+    margin-left: 20px;
   }
 
   #main-container {
@@ -295,8 +301,8 @@ input[type=submit] {
     width: 250px;
     height: 200px;
     object-fit: cover;
-    float: left;
     padding: 3px 15px 10px 0;
+    float: left;
   }
 
   p {
@@ -310,8 +316,7 @@ input[type=submit] {
   }
 
   .imgplz {
-    margin: auto;
-    width: 40%;
+    width: 100%;
     height: 250px;
     object-fit: cover;
   }
@@ -321,10 +326,31 @@ input[type=submit] {
     color: #ffffff;
     background-color: #4aaaa5;
     text-align: center;
-    padding: 15px 0 15px 0;
-    bottom: 75px;
+    padding: 15px;
+    bottom: 70px;
     border-bottom: #4aaaa5;
+    width: 100%;
   }
+
+  .maybe {
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 30px;
+  }
+
+  /* .Box1 {
+    width: 45%;
+  }
+
+  .Box2 {
+    width: 45%;
+    float: right;
+  }
+
+  .Box3 {
+    width: 45%;
+    float: left;
+  } */
 
 }
 
