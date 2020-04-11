@@ -289,7 +289,8 @@ input[type=submit] {
 
 @media screen and (max-width: 768px) and (min-width: 641px) {
   #logo {
-    margin-left: 20px;
+    position: relative;
+    margin-left: 30px;
   }
 
   #main-container {
@@ -311,7 +312,7 @@ input[type=submit] {
 
   #main-container {
     padding-top: 130px;
-    width: 95%;
+    width: 90%;
     margin: auto;
   }
 
@@ -326,31 +327,29 @@ input[type=submit] {
     color: #ffffff;
     background-color: #4aaaa5;
     text-align: center;
-    padding: 15px;
+    padding-top: 9px;
     bottom: 70px;
     border-bottom: #4aaaa5;
-    width: 100%;
+    /* width: 100%; */
   }
 
-  .maybe {
+  #maybe1 {
     column-count: 2;
     column-fill: auto;
     column-gap: 30px;
   }
 
-  /* .Box1 {
-    width: 45%;
+  #maybe2 {
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 30px;
   }
 
-  .Box2 {
-    width: 45%;
-    float: right;
+  #maybe3 {
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 30px;
   }
-
-  .Box3 {
-    width: 45%;
-    float: left;
-  } */
 
 }
 
