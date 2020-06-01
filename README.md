@@ -15,11 +15,11 @@ For this project no bootstrap was implemented, so the use of media queries was r
 
 # Screen Sizes 
 ● large: > 980px wide <br>
-![](Responsive_SS/Large.png)
+![](Responsive_SS/Large.png) <br><br>
 ● medium: 769px - 980px wide <br>
-![](Responsive_SS/Medium.png)
+![](Responsive_SS/Medium.png) <br><br>
 ● small: 641px - 768px wide <br>
-![](Responsive_SS/Small.png)
+![](Responsive_SS/Small.png) <br><br>
 ● x-small: <= 640px wide <br>
 ![](Responsive_SS/x-Small.png)
 
