@@ -18,3 +18,4 @@ For this project no bootstrap was implemented, so the use of media queries was r
 ● medium: 769px - 980px wide <br>
 ● small: 641px - 768px wide <br>
 ● x-small: <= 640px wide
+
