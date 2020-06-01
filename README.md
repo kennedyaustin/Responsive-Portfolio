@@ -8,6 +8,7 @@ The concept of this project was to change the information on the page as the scr
 
 # Tools Used
 ● CSS
+CSS is where the media queries were implemented. It is also where 
 ● HTML
 
 # Screen Sizes 
