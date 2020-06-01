@@ -7,7 +7,7 @@ https://kennedyaustin.github.io/Responsive-Portfolio/
 The concept of this project was to change the information on the page as the screen size changed.
 
 # Tools Used
-● CSS
+● CSS <br>
 CSS is where the media queries were implemented. It is also where 
 ● HTML
 
