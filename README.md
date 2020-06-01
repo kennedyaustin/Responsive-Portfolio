@@ -20,6 +20,6 @@ For this project no bootstrap was implemented, so the use of media queries was r
 ![](Responsive_SS/Medium.png)
 ● small: 641px - 768px wide <br>
 ![](Responsive_SS/Small.png)
-● x-small: <= 640px wide
+● x-small: <= 640px wide <br>
 ![](Responsive_SS/x-Small.png)
 
